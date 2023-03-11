@@ -48,7 +48,7 @@ void WinSockController::stopWinSock()
     WinSockController::getInstance()->version = {0, 0};
 }
 
-std::pair<short, short> WinSockController::getWinSockVersion()
+std::pair<short, short> WinSockController::getWinSockVersion() const
 {
     return WinSockController::getInstance()->version;
 }
