@@ -1,0 +1,5 @@
+C:/dev/cpp/winsock/build/CMakeFiles/wsock_http_client.dir
+C:/dev/cpp/winsock/build/CMakeFiles/edit_cache.dir
+C:/dev/cpp/winsock/build/CMakeFiles/rebuild_cache.dir
+C:/dev/cpp/winsock/build/src/CMakeFiles/edit_cache.dir
+C:/dev/cpp/winsock/build/src/CMakeFiles/rebuild_cache.dir

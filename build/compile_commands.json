@@ -1,0 +1,20 @@
+[
+{
+  "directory": "C:/dev/cpp/winsock/build",
+  "command": "C:\\dev\\tools\\mingw64\\bin\\g++.exe  @CMakeFiles/wsock_http_client.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\wsock_http_client.dir\\__build.cpp.obj -c C:\\dev\\cpp\\winsock\\__build.cpp",
+  "file": "C:/dev/cpp/winsock/__build.cpp",
+  "output": "CMakeFiles/wsock_http_client.dir/__build.cpp.obj"
+},
+{
+  "directory": "C:/dev/cpp/winsock/build",
+  "command": "C:\\dev\\tools\\mingw64\\bin\\g++.exe  @CMakeFiles/wsock_http_client.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\wsock_http_client.dir\\src\\main.cpp.obj -c C:\\dev\\cpp\\winsock\\src\\main.cpp",
+  "file": "C:/dev/cpp/winsock/src/main.cpp",
+  "output": "CMakeFiles/wsock_http_client.dir/src/main.cpp.obj"
+},
+{
+  "directory": "C:/dev/cpp/winsock/build",
+  "command": "C:\\dev\\tools\\mingw64\\bin\\g++.exe  @CMakeFiles/wsock_http_client.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\wsock_http_client.dir\\src\\assist_network.cpp.obj -c C:\\dev\\cpp\\winsock\\src\\assist_network.cpp",
+  "file": "C:/dev/cpp/winsock/src/assist_network.cpp",
+  "output": "CMakeFiles/wsock_http_client.dir/src/assist_network.cpp.obj"
+}
+]

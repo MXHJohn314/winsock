@@ -1,0 +1,1 @@
+target_sources(wsock_http_client PRIVATE main.cpp assist_network.cpp)

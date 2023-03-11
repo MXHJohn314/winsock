@@ -1,0 +1,3 @@
+C:\dev\tools\cmake\cmake-3.26.0-rc6-windows-x86_64\bin\cmake.exe -E rm -f CMakeFiles\wsock_http_client.dir/objects.a
+C:\dev\tools\mingw64\bin\ar.exe qc CMakeFiles\wsock_http_client.dir/objects.a @CMakeFiles\wsock_http_client.dir\objects1.rsp
+C:\dev\tools\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\wsock_http_client.dir/objects.a -Wl,--no-whole-archive -o wsock_http_client.exe -Wl,--out-implib,libwsock_http_client.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\wsock_http_client.dir\linkLibs.rsp

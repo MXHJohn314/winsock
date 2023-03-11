@@ -1,0 +1,10 @@
+# ninja log v5
+7	12	0	clean	532fc142e9dc0bde
+9	632	7002184511756439	CMakeFiles/wsock_http_client.dir/src/assist_network.cpp.obj	6d5236030940c05c
+5	33	7002184505808766	CMakeFiles/wsock_http_client.dir/__build.cpp.obj	5f8cdd088d4ff776
+8	684	7002184512270777	CMakeFiles/wsock_http_client.dir/src/main.cpp.obj	af9780666349fed6
+685	763	7002184513070684	wsock_http_client.exe	33d52b51f49bcc39
+6	34	7002186373184723	CMakeFiles/wsock_http_client.dir/__build.cpp.obj	5f8cdd088d4ff776
+10	638	7002186379192931	CMakeFiles/wsock_http_client.dir/src/assist_network.cpp.obj	6d5236030940c05c
+8	691	7002186379703306	CMakeFiles/wsock_http_client.dir/src/main.cpp.obj	af9780666349fed6
+691	773	7002186380551479	wsock_http_client.exe	33d52b51f49bcc39
