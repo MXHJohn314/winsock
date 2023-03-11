@@ -50,7 +50,7 @@ namespace Assist::Network
         bool isInitialized() const;
         void startWinSock();
         void stopWinSock();
-        std::pair<short, short> getWinSockVersion();
+        std::pair<short, short> getWinSockVersion() const;
     };
 
     // Free Functions

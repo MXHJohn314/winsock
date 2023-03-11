@@ -58,6 +58,11 @@ public:
         return WinSockController::getInstance()->version;
     }
 
+std::pair<short, short> WinSockController::getWinSockVersion() const
+{
+    return WinSockController::getInstance()->version;
+}
+
 private:
     // Private member variables
     bool isInitialized_;        // Flag indicating whether the WinSock API has been initialized
